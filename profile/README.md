@@ -1,4 +1,5 @@
-![Open Source at ITGSS](https://developer.microsoft.com/_devcom/images/card-learn-bg-dark.png)
+![Open Source at ITGSS](https://developer.microsoft.com/_devcom/images/hero-code-to-cloud-dark-v2.jpg)
+# Open Source at ITGSS
 
 ITGSS is the purveyor of the industry’s most widely adopted open source technologies, such as [Code](https://developer.it-gss.com/).
 
